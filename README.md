@@ -16,7 +16,7 @@ Di dalam folder ini terdapat 4 sub-folder yang berisi 4 bahasa yang berbeda yait
   - Penjelasan Class dalam file *detail*
     - Name : menyimpan data nama tim sepakbola
     - Nation : menyimpan data negara asal tim sepakbola
-    - Found : menyimpan data tahub berdiri tim sepakbola
+    - Found : menyimpan data tahun berdiri tim sepakbola
     - Player : menyimpan data posisi dan nama pemain dari tim sepakbola
 
 2. File *main* berisi syntax untuk menampilkan hasil dan menjalankan program
