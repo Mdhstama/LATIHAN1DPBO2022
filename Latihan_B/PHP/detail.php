@@ -55,3 +55,5 @@ class detail
         return $this->player;
     }
 }
+
+?>
