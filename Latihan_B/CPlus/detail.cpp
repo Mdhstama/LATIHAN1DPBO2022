@@ -67,4 +67,8 @@ public:
     {
         return this->player;
     }
+    
+    ~detail()
+    {
+    }
 };
