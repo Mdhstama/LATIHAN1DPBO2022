@@ -7,7 +7,7 @@ Keterangan desain dari pemograman yang sudah diupload :
 
 **Folder LATIHAN_A**
 
-Di dalam folder ini terdapat 2 file yaitu *data.php* untuk atribut data mahasiswa dan *main.php* untuk menampilkan hasil dan menjalankan program
+Di dalam folder ini terdapat 2 file yaitu *data.php* untuk atribut data mahasiswa (nim, nama, gender, departemen, fakultas, program studi, dan semester) dan *main.php* untuk menampilkan hasil dan menjalankan program
 
 **Folder LATIHAN_B**
 
