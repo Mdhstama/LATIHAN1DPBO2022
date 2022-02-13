@@ -68,6 +68,7 @@ public:
         return this->player;
     }
     
+    /* Membuat destructor */
     ~detail()
     {
     }
