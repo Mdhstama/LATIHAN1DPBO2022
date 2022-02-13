@@ -40,3 +40,5 @@ echo "Detail Pemain" . "<br/>";
 echo "==============================" . "<br/>";
 echo $tim2->getPlayer() . "<br/>";
 echo "<br/>";
+
+?>
